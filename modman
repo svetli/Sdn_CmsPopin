@@ -1,0 +1,3 @@
+app/etc/modules/Sdn_Popin.xml  app/etc/modules/Sdn_Popin.xml
+app/code/community/Sdn/Popin/etc/config.xml app/code/community/Sdn/Popin/etc/config.xml
+app/code/community/Sdn/Popin/Model/Observer.php app/code/community/Sdn/Popin/Model/Observer.php
